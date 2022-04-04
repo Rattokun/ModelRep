@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T02:10:20.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Q1qGHyZxEcRL3Wvwkbeo" version="17.2.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-04T02:11:30.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="SEZYsRvSUyli23D2qHDz" version="17.2.4" type="github" pages="8">
   <diagram id="gs9AMT8mG3xckfrs75OB" name="Работа банка">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -958,7 +958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ZwknGtHqsLLtXpilOje" name="Пр5 Классы">
-    <mxGraphModel dx="824" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4hEe6p6FctS2byGaWS9k-0" />
         <mxCell id="4hEe6p6FctS2byGaWS9k-1" parent="4hEe6p6FctS2byGaWS9k-0" />
@@ -1095,7 +1095,17 @@
         </mxCell>
         <mxCell id="rNHxhOYwuUAJRbCFH_yO-16" value="Заправляет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rNHxhOYwuUAJRbCFH_yO-14">
           <mxGeometry x="-0.1846" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNHxhOYwuUAJRbCFH_yO-86" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rNHxhOYwuUAJRbCFH_yO-14">
+          <mxGeometry x="-0.8794" y="-1" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNHxhOYwuUAJRbCFH_yO-87" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rNHxhOYwuUAJRbCFH_yO-14">
+          <mxGeometry x="0.7351" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHBxkg_XFu_ELw4V4lFP-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Заправщик&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;- Зарплата: float&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ заправитьМашину(Клиент, Топливо)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="4hEe6p6FctS2byGaWS9k-1" vertex="1">
@@ -1134,6 +1144,16 @@
         <mxCell id="rNHxhOYwuUAJRbCFH_yO-17" value="Чинит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rNHxhOYwuUAJRbCFH_yO-15">
           <mxGeometry x="0.1448" y="2" relative="1" as="geometry">
             <mxPoint x="13" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNHxhOYwuUAJRbCFH_yO-84" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rNHxhOYwuUAJRbCFH_yO-15">
+          <mxGeometry x="-0.8762" y="-2" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rNHxhOYwuUAJRbCFH_yO-85" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rNHxhOYwuUAJRbCFH_yO-15">
+          <mxGeometry x="0.7515" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rNHxhOYwuUAJRbCFH_yO-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Ремонтник&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;- Зарплата: float&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ ПочинитьМашину(Клиент, типУслуги)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="4hEe6p6FctS2byGaWS9k-1">
