@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T03:52:11.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="t128cQromgIObaacLv3V" version="18.0.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-05-06T04:05:46.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kyr79PtVPKCq5wBLW3G_" version="18.0.0" type="github" pages="18">
   <diagram id="gs9AMT8mG3xckfrs75OB" name="Работа банка">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1753,7 +1753,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ciiAzBC9r93JXZpD-pnp" name="Бд 1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1778,9 +1778,6 @@
         </mxCell>
         <mxCell id="ekW-F1agLGxo0uxLMCJU-4" value="Кассир" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="275" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ekW-F1agLGxo0uxLMCJU-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://works.doklad.ru/images/sijVwY9NRO8/2ab2ae95.png;" parent="1" vertex="1">
-          <mxGeometry x="870" y="158.5" width="482" height="293" as="geometry" />
         </mxCell>
         <mxCell id="ekW-F1agLGxo0uxLMCJU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ekW-F1agLGxo0uxLMCJU-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2447,7 +2444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="znW3b58fqI4z4H-G7rdc" name="Бд 7(не готово)">
-    <mxGraphModel dx="2858" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
