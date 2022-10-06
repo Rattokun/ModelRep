@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T21:57:30.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-IjuPE85DHdVSmA77ywL" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-06T21:58:44.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5CTKG66Uavt6wKv3TUo8" version="20.4.0" type="github" pages="2">
   <diagram id="0fajCpiCSNyf0W4oF5-n" name="Fan">
     <mxGraphModel dx="1287" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,10 +134,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uPPNju4TJ0xwUEbWvf_P-14" value="Подача напряжения на buzzer" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="uPPNju4TJ0xwUEbWvf_P-10" target="uPPNju4TJ0xwUEbWvf_P-4">
+        <mxCell id="uPPNju4TJ0xwUEbWvf_P-14" value="Подача напряжения на buzzer" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=-0.076;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uPPNju4TJ0xwUEbWvf_P-10" target="uPPNju4TJ0xwUEbWvf_P-5">
           <mxGeometry x="0.0758" y="-25" width="80" relative="1" as="geometry">
             <mxPoint x="425" y="165" as="sourcePoint" />
-            <mxPoint x="567" y="161.18000000000006" as="targetPoint" />
+            <mxPoint x="620" y="170" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -192,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c6RpOjbhWi8PSyfDC0G--12" value="Изменение подачи &lt;br&gt;напряжения на buzzer" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="c6RpOjbhWi8PSyfDC0G--10" target="c6RpOjbhWi8PSyfDC0G--4">
+        <mxCell id="c6RpOjbhWi8PSyfDC0G--12" value="Изменение подачи &lt;br&gt;напряжения на buzzer" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="c6RpOjbhWi8PSyfDC0G--10" target="c6RpOjbhWi8PSyfDC0G--5">
           <mxGeometry x="0.0758" y="-40" width="80" relative="1" as="geometry">
             <mxPoint x="425" y="635" as="sourcePoint" />
             <mxPoint x="567" y="631.1800000000001" as="targetPoint" />
