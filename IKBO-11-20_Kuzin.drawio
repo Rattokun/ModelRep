@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T11:53:38.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="eU_oofgFUylxwO4AHWqc" version="18.0.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-10-06T22:09:47.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TcGxCf_nqNJsUW2CwnQh" version="20.4.0" type="github" pages="21">
   <diagram id="gs9AMT8mG3xckfrs75OB" name="Работа банка">
-    <mxGraphModel dx="924" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,7 +501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JIjSqHpnJc9iCmnU5ME4" name="Ч1. Диаграмма последовательности">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OqgCVN78PTtbguXM5FG4-0" />
         <mxCell id="OqgCVN78PTtbguXM5FG4-1" parent="OqgCVN78PTtbguXM5FG4-0" />
@@ -1939,7 +1939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IGNlBsnFGp3_GhfxLL7b" name="Бд 2">
-    <mxGraphModel dx="1164" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2079,7 +2079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IWxwtWoC-Z5qRagT2ZF7" name="Бд 3">
-    <mxGraphModel dx="1164" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
