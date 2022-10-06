@@ -1,54 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T21:58:44.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5CTKG66Uavt6wKv3TUo8" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-06T22:24:43.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="V6rCirrGG-rwsIvFJO3H" version="20.3.7" type="github" pages="2">
   <diagram id="0fajCpiCSNyf0W4oF5-n" name="Fan">
-    <mxGraphModel dx="1287" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1936" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-33" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-33" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;" parent="1" vertex="1">
           <mxGeometry x="35" y="180" width="20" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-34" value="Вентилятор вращается" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.95;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e6-Qxzalg5yLmeX-kmgH-36" target="e6-Qxzalg5yLmeX-kmgH-35">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-34" value="Вентилятор вращается" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.95;entryY=0.76;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="e6-Qxzalg5yLmeX-kmgH-36" target="e6-Qxzalg5yLmeX-kmgH-35" edge="1">
           <mxGeometry x="0.2182" y="25" relative="1" as="geometry">
             <mxPoint x="539.9999999999998" y="489.96000000000004" as="sourcePoint" />
             <mxPoint x="80" y="490" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="35" y="260" width="20" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-36" value="e: Вентилятор" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-36" value="e: Вентилятор" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="160" width="110" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="e6-Qxzalg5yLmeX-kmgH-36">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="e6-Qxzalg5yLmeX-kmgH-36" vertex="1">
           <mxGeometry x="45" y="140" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-40" value="b: Датчик CO2" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-40" value="b: Датчик CO2" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="160" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="e6-Qxzalg5yLmeX-kmgH-40">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="e6-Qxzalg5yLmeX-kmgH-40" vertex="1">
           <mxGeometry x="40" y="100" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-42" value="Воздействие на датчик" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="e6-Qxzalg5yLmeX-kmgH-35">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-42" value="Воздействие на датчик" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="e6-Qxzalg5yLmeX-kmgH-35" edge="1">
           <mxGeometry x="-0.037" y="-20" width="80" relative="1" as="geometry">
             <mxPoint x="80" y="280" as="sourcePoint" />
             <mxPoint x="190" y="280" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-43" value="c: Контроллер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-43" value="c: Контроллер" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="e6-Qxzalg5yLmeX-kmgH-43">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="e6-Qxzalg5yLmeX-kmgH-43" vertex="1">
           <mxGeometry x="40" y="110" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-45" value="d: Реле" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-45" value="d: Реле" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="e6-Qxzalg5yLmeX-kmgH-45">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="e6-Qxzalg5yLmeX-kmgH-45" vertex="1">
           <mxGeometry x="40" y="130" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-47" value="Подача сигнала об изменении &lt;br&gt;окружающей среды" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="e6-Qxzalg5yLmeX-kmgH-41" target="e6-Qxzalg5yLmeX-kmgH-44">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-47" value="Подача сигнала об изменении &lt;br&gt;окружающей среды" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="e6-Qxzalg5yLmeX-kmgH-41" target="e6-Qxzalg5yLmeX-kmgH-44" edge="1">
           <mxGeometry x="0.0526" y="-40" width="80" relative="1" as="geometry">
             <mxPoint x="240" y="310" as="sourcePoint" />
             <mxPoint x="345" y="310" as="targetPoint" />
@@ -58,25 +58,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-48" value="Команда замкнуть &lt;br&gt;электрическую цепь &lt;br&gt;с вентилятором" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=-0.15;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e6-Qxzalg5yLmeX-kmgH-44" target="e6-Qxzalg5yLmeX-kmgH-46">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-48" value="Команда замкнуть &lt;br&gt;электрическую цепь &lt;br&gt;с вентилятором" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=-0.15;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="e6-Qxzalg5yLmeX-kmgH-44" target="e6-Qxzalg5yLmeX-kmgH-46" edge="1">
           <mxGeometry x="0.0219" y="-54" width="80" relative="1" as="geometry">
             <mxPoint x="415" y="320" as="sourcePoint" />
             <mxPoint x="520" y="320" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-49" value="Замыкание цепи" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="e6-Qxzalg5yLmeX-kmgH-46" target="e6-Qxzalg5yLmeX-kmgH-38">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-49" value="Замыкание цепи" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="e6-Qxzalg5yLmeX-kmgH-46" target="e6-Qxzalg5yLmeX-kmgH-38" edge="1">
           <mxGeometry x="-0.0345" y="-25" width="80" relative="1" as="geometry">
             <mxPoint x="580" y="359.99999999999994" as="sourcePoint" />
             <mxPoint x="717" y="359.99999999999994" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6-Qxzalg5yLmeX-kmgH-50" value="a: Пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="e6-Qxzalg5yLmeX-kmgH-50" value="a: Пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-10" y="155" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XYCsBVNLDujC-cE6VWQl-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
