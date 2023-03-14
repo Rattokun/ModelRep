@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T09:41:55.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CcfT-gn6CpDvLUte6wCk" version="21.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-14T11:20:10.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="H9zR2fn71k1sjDiYw2bc" version="21.0.6" type="github" pages="5">
   <diagram name="Страница 1" id="8a4zU3oj1k-wEACCgTFj">
     <mxGraphModel dx="1176" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,7 +501,7 @@
         <mxCell id="djdVcMgAwxcNeKkceROI-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="djdVcMgAwxcNeKkceROI-8" vertex="1">
           <mxGeometry x="20" y="214" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="djdVcMgAwxcNeKkceROI-9" value="База данных" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="ilqdD64VbUs7o2DT7oSR-1" vertex="1">
+        <mxCell id="djdVcMgAwxcNeKkceROI-9" value="Spring&lt;br&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="ilqdD64VbUs7o2DT7oSR-1" vertex="1">
           <mxGeometry x="261" width="40" height="400" as="geometry" />
         </mxCell>
         <mxCell id="djdVcMgAwxcNeKkceROI-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="djdVcMgAwxcNeKkceROI-9" vertex="1">
