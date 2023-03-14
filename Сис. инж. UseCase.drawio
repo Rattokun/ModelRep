@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T12:27:33.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EIIqLZR-JkrgMALfH6h5" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-14T12:33:28.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ykaCOnz73JJy9V7KLVHl" version="21.0.6" type="github" pages="5">
   <diagram name="Страница 1" id="8a4zU3oj1k-wEACCgTFj">
     <mxGraphModel dx="1680" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,12 +482,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Диаграмма последовательности" id="BFubLKH7F0Qv6Svbsqha">
-    <mxGraphModel dx="653" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2003" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ilqdD64VbUs7o2DT7oSR-0" />
         <mxCell id="ilqdD64VbUs7o2DT7oSR-1" parent="ilqdD64VbUs7o2DT7oSR-0" />
         <mxCell id="djdVcMgAwxcNeKkceROI-7" value="Клиент" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="ilqdD64VbUs7o2DT7oSR-1" vertex="1">
-          <mxGeometry x="20" width="20" height="400" as="geometry" />
+          <mxGeometry x="-40" width="20" height="400" as="geometry" />
         </mxCell>
         <mxCell id="djdVcMgAwxcNeKkceROI-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="djdVcMgAwxcNeKkceROI-7" vertex="1">
           <mxGeometry x="5" y="95" width="10" height="225" as="geometry" />
@@ -565,7 +565,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVPQsx5LPsawxVzRGwkK-5" value="В" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.001;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ilqdD64VbUs7o2DT7oSR-1" source="djdVcMgAwxcNeKkceROI-16" target="djdVcMgAwxcNeKkceROI-7">
+        <mxCell id="BVPQsx5LPsawxVzRGwkK-5" value="Оповещение об &lt;br&gt;успешной регистрации &lt;br&gt;(Toast)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;exitX=0.001;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ilqdD64VbUs7o2DT7oSR-1" source="djdVcMgAwxcNeKkceROI-16" target="djdVcMgAwxcNeKkceROI-7">
           <mxGeometry x="0.0343" y="-15" width="160" relative="1" as="geometry">
             <mxPoint x="495" y="266" as="sourcePoint" />
             <mxPoint x="160" y="266" as="targetPoint" />
