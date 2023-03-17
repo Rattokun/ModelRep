@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T20:06:15.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="axvLVyzn_YAVEeo-kPdO" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-17T20:30:12.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="azBeLRrAFMnYtFQHznyz" version="21.0.6" type="github" pages="5">
   <diagram name="Страница 1" id="8a4zU3oj1k-wEACCgTFj">
     <mxGraphModel dx="712" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Тут с коментами" id="DjGdh40kvcbGYOoTLUBj">
-    <mxGraphModel dx="712" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MJT74RPEsto_0Qt1wx4j-0" />
         <mxCell id="MJT74RPEsto_0Qt1wx4j-1" parent="MJT74RPEsto_0Qt1wx4j-0" />
@@ -273,7 +273,7 @@
           <mxGeometry x="980" y="300" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MJT74RPEsto_0Qt1wx4j-16" value="Получить данные &lt;br&gt;для доступа к кабинету" style="ellipse;whiteSpace=wrap;html=1;" parent="MJT74RPEsto_0Qt1wx4j-1" vertex="1">
-          <mxGeometry x="640" y="300" width="180" height="40" as="geometry" />
+          <mxGeometry x="680" y="300" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MJT74RPEsto_0Qt1wx4j-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="MJT74RPEsto_0Qt1wx4j-1" source="MJT74RPEsto_0Qt1wx4j-3" target="MJT74RPEsto_0Qt1wx4j-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -366,7 +366,7 @@
             <mxPoint x="580" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MJT74RPEsto_0Qt1wx4j-39" value="Просмотр 3-D модели" style="ellipse;whiteSpace=wrap;html=1;" parent="MJT74RPEsto_0Qt1wx4j-1" vertex="1">
+        <mxCell id="MJT74RPEsto_0Qt1wx4j-39" value="Посмотреть 3-D модели" style="ellipse;whiteSpace=wrap;html=1;" parent="MJT74RPEsto_0Qt1wx4j-1" vertex="1">
           <mxGeometry y="197.5" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MJT74RPEsto_0Qt1wx4j-40" value="Посмотреть корзину" style="ellipse;whiteSpace=wrap;html=1;" parent="MJT74RPEsto_0Qt1wx4j-1" vertex="1">
