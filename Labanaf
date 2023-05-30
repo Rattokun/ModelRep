@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T22:18:25.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="T9ukMA7eWZbFT9mY9eY8" version="21.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-30T07:01:35.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_w9LB_-Qh21T9yMyAyf3" version="21.3.2" type="github" pages="6">
   <diagram name="Вторая диаграмма (Xzibit)" id="M2v6yBqFFHPkbCEqWdYB">
-    <mxGraphModel dx="712" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5bVZxnR5uP_tndf6Tqt1" name="Страница 4">
-    <mxGraphModel dx="712" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,6 +618,11 @@
             <mxPoint x="287.5" y="455" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-1" value="У клиента нет аккаунта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-28">
+          <mxGeometry x="-0.3486" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OP44h6oIZTRzlrLbszlP-31" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="OP44h6oIZTRzlrLbszlP-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="1140" as="targetPoint" />
@@ -644,10 +649,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-6" value="Оплата прошла успешно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-34">
+          <mxGeometry x="0.1849" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OP44h6oIZTRzlrLbszlP-35" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="OP44h6oIZTRzlrLbszlP-19" target="OP44h6oIZTRzlrLbszlP-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="829.9999999999995" as="targetPoint" />
             <mxPoint x="275" y="770.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-7" value="Книга отправлена на доставку" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-35">
+          <mxGeometry x="0.3089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OP44h6oIZTRzlrLbszlP-36" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="OP44h6oIZTRzlrLbszlP-21" target="OP44h6oIZTRzlrLbszlP-54" edge="1">
@@ -687,6 +702,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="645" y="1040" as="targetPoint" />
             <mxPoint x="435" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-5" value="Оформлен заказ, &lt;br&gt;переход к оплате" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-44">
+          <mxGeometry x="0.3715" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OP44h6oIZTRzlrLbszlP-45" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="OP44h6oIZTRzlrLbszlP-20" target="OP44h6oIZTRzlrLbszlP-43" edge="1">
@@ -773,6 +793,11 @@
             <mxPoint x="532.75" y="485" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-2" value="У клиента есть аккаунт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-65">
+          <mxGeometry x="-0.3973" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OP44h6oIZTRzlrLbszlP-66" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OP44h6oIZTRzlrLbszlP-17" target="OP44h6oIZTRzlrLbszlP-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="462.75" y="760" as="targetPoint" />
@@ -782,10 +807,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-3" value="Клиент завёл аккаунт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-66">
+          <mxGeometry x="0.1191" y="3" relative="1" as="geometry">
+            <mxPoint x="-19" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OP44h6oIZTRzlrLbszlP-67" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OP44h6oIZTRzlrLbszlP-61" target="OP44h6oIZTRzlrLbszlP-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="740" as="targetPoint" />
             <mxPoint x="230" y="540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAkplAlFb93qj0YPCRN_-4" value="Клиент выбрал книгу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OP44h6oIZTRzlrLbszlP-67">
+          <mxGeometry x="0.1701" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
