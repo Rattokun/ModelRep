@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T20:53:32.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="V4NaDRLQWJnLZknANzMb" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T20:53:53.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8BHlEYkmFNQNJ5hT8lDW" version="21.3.7" type="github">
   <diagram name="Страница 1" id="6cj-dm2TCupNIVutivOo">
     <mxGraphModel dx="1456" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,6 +139,22 @@
         </mxCell>
         <mxCell id="ab2Kzsvk-i5Xff6N2FPf-48" value="loss.backward()" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;spacing=2;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab2Kzsvk-i5Xff6N2FPf-49" style="edgeStyle=orthogonalEdgeStyle;comic=0;html=1;entryX=0.25;entryY=0;shadow=0;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#d6b656;strokeWidth=1;fontSize=14;fontColor=#000000;fillColor=#fff2cc;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="ab2Kzsvk-i5Xff6N2FPf-50" source="ab2Kzsvk-i5Xff6N2FPf-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab2Kzsvk-i5Xff6N2FPf-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;fontSize=14;align=right;" vertex="1" parent="1">
+          <mxGeometry x="720" y="396" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ab2Kzsvk-i5Xff6N2FPf-51" value="Sum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="720" y="416" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab2Kzsvk-i5Xff6N2FPf-52" style="edgeStyle=orthogonalEdgeStyle;comic=0;html=1;entryX=0.75;entryY=0;shadow=0;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#d6b656;strokeWidth=1;fontSize=14;fontColor=#000000;fillColor=#fff2cc;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="ab2Kzsvk-i5Xff6N2FPf-50" source="ab2Kzsvk-i5Xff6N2FPf-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="360" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
